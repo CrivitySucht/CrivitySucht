@@ -1,3 +1,3 @@
-- Offical DemonGames.de Account.
+- Offical CrivitySucht.de Account.
 
-Website http://demongames.de/
+Website https://crivitysucht.de
